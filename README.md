@@ -10,7 +10,9 @@ This app shows list of 10 Google offices around the world.
   *  using `SlideTransition()` to create a sliding screen from below when navigating.
 
 **Card form for each Item**
-  *  using `Card()` widget to create each google office item and using `InkWell()` to create
-     ripple effect when user touch the card.
+  *  using `Card()` widget to create each google office item and using `InkWell()` to create ripple effect when user touch the card.
+
+**Reusable Widget**
+  *  using separated widget to maintain clean code and avoid god code.
 
 ***starter project by: Dicoding Indonesia***
